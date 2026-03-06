@@ -1,0 +1,23 @@
+# Data files (too large + Kaggle ToS)
+data/
+*.csv
+
+# Saved models
+models/
+*.pkl
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# Python env
+venv/
+.env
+*.pyc
+
+# Google Drive / Colab
+drive/
+
+# OS files
+.DS_Store
+Thumbs.db
